@@ -12,7 +12,14 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=AdventureWorks-Purchasing-Operational-Dashboard&theme=radical" />
 </a> 
-
+<a href="https://github.com/tpnguyen-1999/RFM-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=RFM-Analysis&theme=radical" />
+</a> 
+<a href="https://github.com/tpnguyen-1999/E-Wallet-Company-Data-Wrangling">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=E-Wallet-Company-Data-Wrangling&theme=radical" />
+</a> 
 
 <!--
 **tpnguyen-1999/tpnguyen-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
