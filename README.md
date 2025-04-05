@@ -8,6 +8,10 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Ecommerce-User-Behaviors-Analysis&theme=radical" />
 </a> 
+<a href="https://github.com/tpnguyen-1999/AdventureWorks-Purchasing-Operational-Dashboard">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=AdventureWorks-Purchasing-Operational-Dashboard&theme=radical" />
+</a> 
 
 
 <!--
