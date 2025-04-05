@@ -6,7 +6,7 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
 
 <a href="https://github.com/tpnguyen-1999/Ecommerce-User-Behaviors-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=User-Churn-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Ecommerce-User-Behaviors-Analysis&theme=radical" />
 </a> 
 
 
