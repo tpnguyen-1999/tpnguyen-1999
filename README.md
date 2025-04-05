@@ -3,6 +3,13 @@
 My name is Thu Phuong Nguyen. I’m deeply passionate about **Data Analysis** and am actively looking for new opportunities to apply my skills in real-world projects. I am eager to work on data-driven problems, uncover insights, and help organizations make data-informed decisions.
 
 If you have any opportunities, feel free to reach out—I’d love to collaborate and contribute to meaningful projects!
+
+<a href="https://github.com/iposoon/User-Churn-Analysis/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=User-Churn-Analysis&theme=radical" />
+</a> 
+
+
 <!--
 **tpnguyen-1999/tpnguyen-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
