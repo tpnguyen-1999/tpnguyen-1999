@@ -4,7 +4,7 @@ My name is Thu Phuong Nguyen. I’m deeply passionate about **Data Analysis** an
 
 If you have any opportunities, feel free to reach out—I’d love to collaborate and contribute to meaningful projects!
 
-<a href="https://github.com/iposoon/User-Churn-Analysis/">
+<a href="https://github.com/tpnguyen-1999/Ecommerce-User-Behaviors-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iposoon&repo=User-Churn-Analysis&theme=radical" />
 </a> 
