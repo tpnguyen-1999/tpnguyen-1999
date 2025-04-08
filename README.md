@@ -8,9 +8,9 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Explore-User-Behaviors-of-an-Ecommerce-Company&theme=radical" />
 </a> 
-<a href="https://github.com/tpnguyen-1999/AdventureWorks-Purchasing-Operational-Dashboard">
+<a href="https://github.com/tpnguyen-1999/Analyze-Purchasing-Performance-of-AdventureWorks-for-Operational-Efficiency">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=AdventureWorks-Purchasing-Operational-Dashboard&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Analyze-Purchasing-Performance-of-AdventureWorks-for-Operational-Efficiency&theme=radical" />
 </a> 
 <a href="https://github.com/tpnguyen-1999/Analyze-Customer-segmentation-of-SuperStore---a-global-retail-company">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
