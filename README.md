@@ -12,9 +12,9 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=AdventureWorks-Purchasing-Operational-Dashboard&theme=radical" />
 </a> 
-<a href="https://github.com/tpnguyen-1999/RFM-Analysis">
+<a href="https://github.com/tpnguyen-1999/Analyze-Customer-segmentation-of-SuperStore---a-global-retail-company">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=RFM-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Analyze-Customer-segmentation-of-SuperStore---a-global-retail-company&theme=radical" />
 </a> 
 <a href="https://github.com/tpnguyen-1999/E-Wallet-Company-Data-Wrangling">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
