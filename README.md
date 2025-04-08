@@ -4,9 +4,9 @@ My name is Thu Phuong Nguyen. I’m deeply passionate about **Data Analysis** an
 
 If you have any opportunities, feel free to reach out—I’d love to collaborate and contribute to meaningful projects!
 
-<a href="https://github.com/tpnguyen-1999/Ecommerce-User-Behaviors-Analysis">
+<a href="https://github.com/tpnguyen-1999/Explore-User-Behaviors-of-an-Ecommerce-Company">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Ecommerce-User-Behaviors-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Explore-User-Behaviors-of-an-Ecommerce-Company&theme=radical" />
 </a> 
 <a href="https://github.com/tpnguyen-1999/AdventureWorks-Purchasing-Operational-Dashboard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
