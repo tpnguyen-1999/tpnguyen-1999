@@ -23,7 +23,11 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
 <a href="https://github.com/tpnguyen-1999/Analyze-Sales-Production-and-Purchasing-Performance-of-AdventureWorks-A-Bicycle-Manufacturer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Analyze-Sales-Production-and-Purchasing-Performance-of-AdventureWorks-A-Bicycle-Manufacturer&theme=radical" />
-</a> 
+</a>
+<a href="https://github.com/tpnguyen-1999/Analyze-Expansion-Strategy-of-Superstore-a-global-retail-company">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=Analyze-Expansion-Strategy-of-Superstore-a-global-retail-company&theme=radical" />
+</a>
 <!--
 **tpnguyen-1999/tpnguyen-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
