@@ -30,7 +30,7 @@ If you have any opportunities, feel free to reach out—I’d love to collaborat
 </a>
 <a href="https://github.com/tpnguyen-1999/A-B-Testing-Promotional-Banner-Strategies-for-E-commerce-Company">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=A/B-Testing-Promotional-Banner-Strategies-for-E-commerce-Company&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tpnguyen-1999&repo=A-B-Testing-Promotional-Banner-Strategies-for-E-commerce-Company&theme=radical" />
 </a>
 
 <!--
